@@ -1,2 +1,2 @@
 # DNA_methylation
-Pipeline for genome wide analysis of Bisulphite sequences
+Pipeline for Genome wide analysis of Bisulphite sequences for Identification of DMR
